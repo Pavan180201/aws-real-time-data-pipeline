@@ -42,7 +42,7 @@ This project implements a real-time data ingestion and analytics pipeline using 
 
 ## 📈 Sample Output
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](architecture_diagram.png)
 
 ---
 
