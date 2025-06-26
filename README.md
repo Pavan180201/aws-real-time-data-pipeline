@@ -30,19 +30,19 @@ This project implements a real-time data ingestion and analytics pipeline using 
 
 | File | Description |
 |------|-------------|
-| `kinesis_producer.py` | Python script to simulate streaming sales data |
+| `simulate_sales.py` | Python script to simulate streaming sales data |
 | `glue_job_script.py` | AWS Glue PySpark script to clean and transform data |
 | `athena_queries.sql` | Athena SQL queries for analysis |
-| `sample_raw_data.json` | Example raw Kinesis record |
-| `sample_clean_data.json` | Output after Glue transformation |
-| `dashboard_screenshot.png` | (Optional) QuickSight dashboard snapshot |
-| `architecture-diagram.png` | (Optional) Architecture of the AWS pipeline |
+| `Sample_raw_data.json` | Example raw Kinesis record |
+| `Sample_Clean_data.json` | Output after Glue transformation |
+| `Sales_Dashboard.pdf` | QuickSight dashboard snapshot |
+| `architecture-diagram.png` | Architecture of the AWS pipeline |
 
 ---
 
 ## 📈 Sample Output
 
-*Include screenshots of your Athena queries or QuickSight dashboard here.*
+![Architecture Diagram](images/architecture.png)
 
 ---
 
